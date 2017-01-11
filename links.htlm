@@ -6,19 +6,19 @@
 
 </head>
 <body>
-
-<ul>
- <li>Best friend</li>
- <li>Friends
+ <p>Link to the following sites:
   <ul>
-   <li>Kanako</li>
-   <li>Iori</li>
-   <li>Riko</li>
-   <li>Asuka</li>
+  <li><a href="https://www.facebook.com/">
+      Facebook</a></li>
+  <li><a href="https://twitter.com/">
+      Twitter</a></li>
+  <li><a href="https://github.com/">
+      Github</a></li>
+  <li><a href="http://www.cnn.com/">
+      CNN</a></li>         
   </ul>
- </li>
- <li>Family</li>
-</ul>
+ </p>
+
 
 
 
