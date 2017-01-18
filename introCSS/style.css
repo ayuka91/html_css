@@ -10,3 +10,8 @@ p{
   font-size: 30px;
   color: #484D6D;
 }
+
+img{
+  height: 100%;
+  width: 57%;
+}
