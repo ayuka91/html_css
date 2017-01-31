@@ -15,3 +15,16 @@ img{
   height: 100%;
   width: 50%;
 }
+
+
+#header {
+  height: 200px;
+  width: 200px;
+  background-color: pink;
+}
+
+
+button {
+  margin-top: 77px;
+  margin-left: 56px;
+}
