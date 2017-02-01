@@ -1,0 +1,30 @@
+html{
+  margin: 0;
+}
+
+
+#parent1 {
+  background-color: red;
+  height: 400px;
+  width: 50%;
+  border: 1px solid black
+}
+
+#pixel {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+}
+
+#parent2 {
+  background-color: blue;
+  height: 100px;
+  width: 100%;
+  border: 1px dotted black;
+}
+
+#percent {
+  height: 100px;
+  width: 100%;
+  background-color: pink;
+}
